@@ -23,6 +23,3 @@ This project demonstrates DOM manipulation, event handling, and dynamic updates 
 - How JavaScript interacts with HTML elements through the DOM.  
 - Handling user actions to dynamically update the calculator display.  
 - Building responsive layouts with CSS.  
-
-# License
-Feel free to use and modify it for your own learning.
